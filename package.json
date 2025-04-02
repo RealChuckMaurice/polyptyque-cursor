@@ -2,6 +2,7 @@
   "name": "polyptyque-cursor",
   "version": "0.1.0",
   "private": true,
+   // Trigger new deployment
   "scripts": {
     "dev": "next dev",
     "build": "next build",
